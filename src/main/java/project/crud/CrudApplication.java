@@ -10,7 +10,7 @@ public class CrudApplication {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext configurableApplicationContext =
 				SpringApplication.run(CrudApplication.class, args);
-		Clie
+
 	}
 
 }
